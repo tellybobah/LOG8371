@@ -147,9 +147,7 @@
 		</resources>
 	</build>
 	<modules>
-		<module>server-core</module>
 		<module>server-plugin</module>
-		<module>server-product</module>
 	</modules>
 	<dependencyManagement>
 		<dependencies>
