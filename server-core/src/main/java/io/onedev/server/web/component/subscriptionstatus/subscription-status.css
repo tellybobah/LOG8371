@@ -1,7 +1,0 @@
-.subscription-status .icon {
-	display: none;
-}
-.subscription-status.subscribed .icon-bell-ring, 
-.subscription-status.unsubscribed .icon-bell-off {
-	display: inline-block;
-}
