@@ -28,6 +28,8 @@
     <orderEntry type="library" name="Maven: net.minidev:json-smart:1.1.1" level="project" />
     <orderEntry type="library" name="Maven: com.nimbusds:lang-tag:1.4" level="project" />
     <orderEntry type="library" name="Maven: com.nimbusds:nimbus-jose-jwt:2.26.1" level="project" />
+    <orderEntry type="library" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" name="Maven: io.onedev:server-core:4.1.4" level="project" />
     <orderEntry type="library" name="Maven: io.onedev:commons-launcher-loader:2.0.2" level="project" />
     <orderEntry type="library" name="Maven: io.onedev:commons-launcher-bootstrap:2.0.2" level="project" />
@@ -250,8 +252,6 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.4" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.4" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.8.4" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.11" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.mockito:mockito-all:1.10.19" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-module-junit4:1.7.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-module-junit4-common:1.7.0" level="project" />

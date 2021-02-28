@@ -13,7 +13,13 @@
 			<groupId>com.nimbusds</groupId>
 			<artifactId>oauth2-oidc-sdk</artifactId>
 		</dependency>
-	</dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 	<properties>
 		<moduleClass>io.onedev.server.plugin.sso.openid.OpenIdModule</moduleClass>
 		<okta-jwt.version>0.4.0</okta-jwt.version>
